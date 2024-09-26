@@ -5,7 +5,7 @@
 
 ## Description
 This repository contains solutions to four Java problems. Each problem is solved using Java and can be found in separate files within this repository.
-You may find my solution in git hub **src > hw_1 > allsolution**
+You may find my solution: **src > hw_1 > allsolution**
 
 ## Problem Descriptions
 
